@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/tera-classic-toolbox/command/master/module.json
+https://raw.githubusercontent.com/tera-classic-toolbox/tera-game-state/master/module.json
+https://raw.githubusercontent.com/tera-classic-toolbox/library/main/module.json
