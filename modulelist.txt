@@ -1,5 +1,4 @@
 https://raw.githubusercontent.com/tera-classic-mods/auto-loot/master/module.json
-https://raw.githubusercontent.com/FrostSigil/auto-heal/main/module.json
 https://raw.githubusercontent.com/FrostSigil/proxy-menu-classic/master/module.json
 https://raw.githubusercontent.com/tera-classic-mods/fps-manager/main/module.json
 https://raw.githubusercontent.com/tera-classic-mods/fps-utils/main/module.json
@@ -8,7 +7,6 @@ https://raw.githubusercontent.com/tera-private-mods/exit-instantly/master/module
 https://raw.githubusercontent.com/tera-private-mods/auto-cutscene/master/module.json
 https://raw.githubusercontent.com/tera-classic-mods/translate-chat/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/anti-bodyblock/master/module.json
-https://raw.githubusercontent.com/tera-classic-mods/instant-revive/master/module.json
 https://raw.githubusercontent.com/tera-classic-mods/npc-summoner/master/module.json
 https://raw.githubusercontent.com/tera-classic-mods/auto-bank/master/module.json
 https://raw.githubusercontent.com/tera-classic-mods/party-deaths-notifier-classic/master/module.json
