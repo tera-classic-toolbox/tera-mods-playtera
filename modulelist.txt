@@ -1,5 +1,4 @@
 https://raw.githubusercontent.com/tera-classic-mods/auto-loot/master/module.json
-https://raw.githubusercontent.com/FrostSigil/proxy-menu-classic/master/module.json
 https://raw.githubusercontent.com/tera-classic-mods/fps-manager/main/module.json
 https://raw.githubusercontent.com/tera-classic-mods/fps-utils/main/module.json
 https://raw.githubusercontent.com/tera-private-mods/monitor-control/master/module.json
@@ -12,3 +11,4 @@ https://raw.githubusercontent.com/tera-classic-mods/auto-bank/master/module.json
 https://raw.githubusercontent.com/tera-classic-mods/party-deaths-notifier-classic/master/module.json
 https://raw.githubusercontent.com/tera-classic-mods/gathering-markers/master/module.json
 https://raw.githubusercontent.com/tera-classic-mods/shinra-toolbox-playtera/master/module.json
+https://raw.githubusercontent.com/tera-classic-mods/omnidirectional/main/module.json
