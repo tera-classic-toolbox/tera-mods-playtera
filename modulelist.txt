@@ -11,4 +11,5 @@ https://raw.githubusercontent.com/tera-classic-mods/auto-bank/master/module.json
 https://raw.githubusercontent.com/tera-classic-mods/party-deaths-notifier-classic/master/module.json
 https://raw.githubusercontent.com/tera-classic-mods/gathering-markers/master/module.json
 https://raw.githubusercontent.com/tera-classic-mods/shinra-toolbox-playtera/master/module.json
+https://raw.githubusercontent.com/tera-classic-mods/just-spam-f/master/module.json
 https://raw.githubusercontent.com/tera-classic-mods/omnidirectional/main/module.json
